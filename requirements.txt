@@ -1,0 +1,10 @@
+Flask==2.2.1
+Flask-Marshmallow==0.15.0
+Flask-HTTPAuth==4.4.0
+Flask-SQLAlchemy==3.0.3
+itsdangerous==2.0.1
+marshmallow==3.14.1
+marshmallow-sqlalchemy==0.26.1
+pytest==6.2.4
+SQLAlchemy==1.4.20
+Werkzeug==2.2.1
